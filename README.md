@@ -50,20 +50,6 @@ This project explores how ensemble methods improve classification, how neural ne
 
 ---
 
-## 📂 Repository Structure
-```
-📂 ML_Advanced_Models
-│── 📜 README.md  # Project overview
-│── 📜 random_forest_nn.ipynb  # Jupyter Notebook implementing RF & Neural Networks
-│── 📜 clustering_analysis.ipynb  # K-Means & Hierarchical Clustering implementation
-│── 📜 dimensionality_reduction.py  # PCA & t-SNE for visualization
-│── 📜 results_visualization.ipynb  # Graphs & insights
-│── 📂 data  # Dataset files (CSV, Excel)
-│── 📂 figures  # Plots & charts
-```
-
----
-
 ## 📈 Key Findings
 - **Random Forest outperforms single decision trees** due to ensemble averaging.
 - **Neural Networks require careful hyperparameter tuning** to achieve good generalization.
